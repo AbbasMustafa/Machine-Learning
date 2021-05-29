@@ -6,7 +6,7 @@ Instructor: Dr. Andrew NG
 
 **Modules Need to install**
 * numpy
-* matplitlib
+* matplotlib
 
 ## **Week 1**
 ### Day 1
