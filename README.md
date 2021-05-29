@@ -4,6 +4,10 @@ Machine Learning Course From Coursera
 Instructor: Dr. Andrew NG  
 11 Week Course 
 
+**Modules Need to install**
+* numpy
+* matplitlib
+
 ## **Week 1**
 ### Day 1
   1. **What is Machine Learning**<br>
