@@ -37,14 +37,14 @@ Instructor: Dr. Andrew NG
   3. **Hypothesis Function**<br>
   4. **Cost Function**<br>
 ### Day 2
-  3. **Vectorize form of gradient Descent**<br>
+  1. **Vectorize form of gradient Descent**<br>
 ### Day 3
-  4. **Feature Notmalization**<br>
-  5. **Store Sigma and mu For unseen Value**<br>
-  6. **Gradient Descent Tips**<br>
-  7. **Polynomial Regression**<br>
-  8. **Normal Equation**<br>
-  9. **Fact About Regression**<br>
+  1. **Feature Notmalization**<br>
+  2. **Store Sigma and mu For unseen Value**<br>
+  3. **Gradient Descent Tips**<br>
+  4. **Polynomial Regression**<br>
+  5. **Normal Equation**<br>
+  6. **Fact About Regression**<br>
 
 
 
