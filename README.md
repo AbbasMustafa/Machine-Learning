@@ -46,6 +46,22 @@ Instructor: Dr. Andrew NG
   5. **Normal Equation**<br>
   6. **Fact About Regression**<br>
 
+## **Week 3**
+### Day 1
+  1. **Logistic Regression**<br>
+     -> a) Binary Classsification<br>
+     -> b) Classifcation through Linear Regression<br>
+     -> c) Hypothesis Function<br>
+  2. **Decision Boundry**<br>
+     -> a) Cost Function<br>
+     -> b) Simplified Cost Function<br>
+### Day 2
+  3. **Gradient Descent**<br>
+### Day 3
+  4. **Regularization**<br>
+     -> a) Regularize Linear Regression<br>
+     -> b) Rergularize Normal Equation<br>
+     -> c) Regularize Logistice Regression<br>
 
 
 ![Coursera FVK2F9U85LXX-1](https://user-images.githubusercontent.com/30475000/120059795-1e76c300-c06d-11eb-94bc-c7d1deee4d11.jpg)
